@@ -11,6 +11,7 @@ console.log(accountEmail);
 var accountPassword = "12345";
 accountPassword = "21212121"
 console.log(accountPassword);
+
 /*
 prefer not use var
 because of issue in block scope and functional scope
