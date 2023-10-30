@@ -24,11 +24,11 @@ console.log("Bittu");
 //Array
 
 /*
-let name = "hitesh"
+let name = "bittu"
 let age = 18
 let islLoggedIn = false
 let state;
-console.log(typeof "hitesh");
+console.log(typeof "bittu");
 console.log(typeof age);
 console.log(typeof null);  //object
 */
@@ -111,9 +111,9 @@ console.log(typeof null);  //object
 // console.log(2%3);
 
 // let str1 = "hello"
-// let str2 = " hitesh"
+// let str2 = " bittu"
 // let str3 = str1+str2
-// console.log(str3);//hello hitesh
+// console.log(str3);//hello bittu
 // console.log("1" + 2);//12  //please not good way to write code
 // console.log(1+"2");//12
 // console.log("1"+2+2);//122
