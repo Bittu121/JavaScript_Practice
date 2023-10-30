@@ -16,7 +16,7 @@
 // console.log(undefined > 0);//false
 // console.log(undefined < 0);//false
 
-// === strict Check dataype and value both are same then true otherwise give false
+// === strict Check dataype and value both are same then true otherwise give the result false
 //console.log("2" === 2); //false
 
 // please write (: Clean Code for production purpose because use in Company Adobe)
