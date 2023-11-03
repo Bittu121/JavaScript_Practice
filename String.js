@@ -11,6 +11,7 @@ const gameName = new String('hitesh-hc-com')
 console.log( gameName[0]);//h
 console.log(gameName.__proto__);//{} object
 
+//Method of string
 //length
 console.log(gameName.length); //13
 
@@ -21,7 +22,7 @@ console.log(gameName.toUpperCase()); //HITESH-HC-COM
 console.log(gameName.charAt(2)); //t
 
 //indexOf()
-console.log(gameName.indexOf('t')); //2
+console.log(gameName.indexOf('t')); // o/p:- 2
 
 //substring()
 const newString = gameName.substring(0, 4)
