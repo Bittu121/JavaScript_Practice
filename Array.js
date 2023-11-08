@@ -60,7 +60,7 @@
 // console.log(myn2);//[ 1, 2, 3 ]
 
 
-//--------------array  part-2-------------------------
+//Array Part-2
 // const marvel_heros = ["thor", "Ironman", "spiderman"]
 // console.log(marvel_heros);//[ 'thor', 'Ironman', 'spiderman' ]
 
@@ -105,9 +105,9 @@
 */
 
 
-// console.log(Array.isArray("Hitesh"))//false
+// console.log(Array.isArray("Hitesh")) //false
 
-// console.log(Array.from("Hitesh"))//[ 'H', 'i', 't', 'e', 's', 'h' ]
+// console.log(Array.from("Hitesh")) //[ 'H', 'i', 't', 'e', 's', 'h' ]
 
 //console.log(Array.from({name: "hitesh"})) // interesting  //[]  (: interview)
 
