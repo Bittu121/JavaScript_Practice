@@ -38,7 +38,7 @@
 
 //method-6
 let newDate = new Date()
-console.log(newDate);//2023-10-08T09:52:10.416Z
+console.log(newDate); //2023-10-08T09:52:10.416Z
 
 console.log(newDate.getMonth() + 1); //10
 
@@ -48,7 +48,6 @@ console.log(newDate.getDay());//0
 
 newDate.toLocaleString('default', {
     weekday: "long",
-    
 })
 
 //Note in vscode press ctrl+spacebar
