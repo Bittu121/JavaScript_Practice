@@ -1,4 +1,4 @@
-//----------------Object Part-1--------------
+//Object Part-1
 // singleton (: jab hm constructor create krte hai tb singleton ek object banta hai literal se nhi banta hai singleton)
 //Object.create  (: constructor method)
 
@@ -46,7 +46,7 @@ const JsUser = {
 // console.log(JsUser.greetingTwo());
 
 
-//----------------Object Part-2--------------
+//Object Part-2
 //const tinderUser = new Object() //singleton object
 //console.log(tinderUser); //{} 
 
