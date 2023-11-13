@@ -11,21 +11,20 @@ function sayMyName(){
 
 
 function addTwoNumbers(number1, number2){ //parameters
-
     console.log(number1 + number2);
 }
-// const result = addTwoNumbers(3, 5) //arguments   //8
-// console.log("Result: ", result); //Result:undefined
+// const result = addTwoNumbers(3, 5) // arguments   //8
+// console.log("Result: ", result);  // Result:undefined
 
 
 function addTwoNumbers(number1, number2){
-
     // let result = number1 + number2
     // return result
+    
     return number1 + number2
 }
 // const result = addTwoNumbers(3, 5) 
-// console.log("Result: ", result); //Result:  8
+// console.log("Result: ", result); // Result:  8
 
 
 function loginUserMessage(username = "sam"){
