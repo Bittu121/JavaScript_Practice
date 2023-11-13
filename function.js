@@ -35,7 +35,7 @@ function loginUserMessage(username = "sam"){
     return `${username} just logged in`
 }
 //console.log(loginUserMessage("hitesh")) //hitesh just logged in
-//console.log(loginUserMessage())//sam just logged in
+//console.log(loginUserMessage()) //sam just logged in
 // console.log(loginUserMessage("hitesh"))
 
 //Rest operator
