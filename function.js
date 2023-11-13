@@ -39,16 +39,16 @@ function loginUserMessage(username = "sam"){
 // console.log(loginUserMessage("hitesh"))
 
 //Rest operator
-// function calculateCartPrice(...num1){ //example shopping cart add item
+// function calculateCartPrice(...num1){  //example shopping cart add item
 //     return num1
 // }
-// console.log(calculateCartPrice(200, 400, 500))//[ 200, 400, 500 ]
+// console.log(calculateCartPrice(200, 400, 500)) //[ 200, 400, 500 ]
 
 
-// function calculateCartPrice(val1, val2, ...num1){ //example shopping cart add item
+// function calculateCartPrice(val1, val2, ...num1){     //example shopping cart add item
 //     return num1
 // }
-// console.log(calculateCartPrice(200, 400, 500, 2000)) //[ 500, 2000 ]
+// console.log(calculateCartPrice(200, 400, 500, 2000))  //[ 500, 2000 ]
 
 
 //Object using function
@@ -56,14 +56,12 @@ const user = {
     username: "hitesh",
     prices: 199
 }
-
 function handleObject(anyobject){
     console.log(`Username is ${anyobject.username} and price is ${anyobject.price}`);
 }
-
 // handleObject(user) //o/p:-Username is sam and price is 399
-
-handleObject({  //Type Scripts  
+//Type Scripts  
+handleObject({  
     username: "sam",
     price: 399
 })
